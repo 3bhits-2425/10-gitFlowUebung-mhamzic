@@ -30,10 +30,10 @@ Uebungen von ChatGPT
    - mit git diff kann man den Dateiunterschied sehen
 
 8. In vorherige Version der .txt gehen
-  - jetzige Version commiten
-  - mit git checkout <HASH-WERT> in alte version wechseln
-  - bei mir: git checkout 02d7e8c
-  - mit git checkout main -> zurück im main
+      - jetzige Version commiten
+      - mit git checkout <HASH-WERT> in alte version wechseln
+      - bei mir: git checkout 02d7e8c
+      - mit git checkout main -> zurück im main
 
 9. Commit-Nachricht ändern
     - git commit --amend -m "Neue Nachricht eingeben"
