@@ -3,21 +3,21 @@
 Uebungen von ChatGPT
 
 1. Neues Repository auf GitHub erstellen
-  - 10-gitFlowUebungen
+    - 10-gitFlowUebungen
     
 2. Repository klonen
-  - git clone <HTTPS>
+    - git clone <HTTPS>
   
 3. Datei erstellen (gitUebung.txt) und zum Repository hinzufügen
-  - nano gitUebung -> dann neue Zeilen erstellen
-  - git add, git init und git commit machen
-  - mit git push auf Repository hinzufügen
+    - nano gitUebung -> dann neue Zeilen erstellen
+    - git add, git init und git commit machen
+    - mit git push auf Repository hinzufügen
 
 4. Änderungen committen
-  - git commit
+    - git commit
     
 5. Änderungen pushen
-   - git push 
+    - git push 
 
 6. Datei umbenennen
    - mit git mv gitUebungen.txt aufgaben.txt umbenennen
