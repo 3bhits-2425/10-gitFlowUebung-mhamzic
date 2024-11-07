@@ -1,2 +1,4 @@
 Hallo. Ich habe mir Aufgaben von ChatGPT generieren lassen und jetzt erfülle 
 ich diese. 
+
+Das ist eine neue Zeile die nicht commitet wird.
